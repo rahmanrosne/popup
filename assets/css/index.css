@@ -1,0 +1,22 @@
+.video-popup{
+    display: flex;
+}
+.video-left img{
+    width: 100%;
+    height: 450px;
+}
+.video-left{
+    padding-right: 40px;
+}
+.video-right{
+    padding-left: 40px;
+}
+
+
+
+
+
+
+
+
+
